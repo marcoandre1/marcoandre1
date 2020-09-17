@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... any web project!
 - 🤔 I’m looking for help with ... easiest way to deploy apps
 - 💬 Ask me about ... anything you find in my repo
-- 📫 How to reach me: ... create a Issue on one of my repos or comment one of my gists
+- 📫 How to reach me: ... create an issue on one of my repos or comment one of my gists
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... Bananas are radioactive
